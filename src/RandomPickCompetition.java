@@ -10,7 +10,6 @@ import java.util.Scanner;
 /**
  * Derived Competition class representing a Random Pick competition type.
  * @author Name: Damian Curran
- * @author Student ID: 1331249
  */
 public class RandomPickCompetition extends Competition implements Serializable {
 	
